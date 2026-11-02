@@ -28,12 +28,12 @@ author:
     name: Nikolaos Chatzis
     organization: Meta
     email: nchatzis@meta.com
-  -
+ -
     ins: S. Jaiswal
     name: Sharad Jaiswal
     organization: Meta
     email: sj77@meta.com
-  -
+ -
     ins: A. Frindell
     name: Alan Frindell
     organization: Meta
